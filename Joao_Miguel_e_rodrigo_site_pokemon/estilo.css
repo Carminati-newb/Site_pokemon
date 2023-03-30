@@ -1,0 +1,82 @@
+body{
+
+        background-color:#D3D3D3;
+        text-align: justify;
+
+    } 
+
+p{
+
+        font-family: Arial;
+        font-size: 15px;
+        color: #000000;
+ 
+    }
+
+#p_01{
+
+        font-family:New Times Roman;
+        font-size: 18px;
+        font-style: italic;
+        float: right;
+    }
+
+a{
+        color:#000000;
+        text-decoration: none;
+
+    }
+
+a:hover{
+        color:#00BFFF;
+        text-decoration:underline;
+    }  
+
+a:active{
+        color: red;
+
+
+} 
+
+img{
+        border-color:#000000;
+        border-width:medium;
+        margin:10px;
+        padding:1px;
+
+    }
+
+img:hover{
+    border-color:#00BFFF;
+    width: 350px;
+    height: 180px;
+}
+
+.proibido{
+        color:#D3D3D3;
+    }
+h1{
+    position: relative;
+}
+body{
+    position: absolute;
+    left: 5px;
+}
+ul li{
+    
+    position: relative;
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+    background-color: #D3D3D3;
+    border-width: 2px;
+    border-color: #000000;
+    border-style: solid;
+    top: 20px;
+}
+.jogos{
+    position: relative;
+    top: 20px;
+    left: 46px;
+    text-align: justify;
+}
